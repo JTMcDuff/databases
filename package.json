@@ -17,6 +17,7 @@
     "lint": "eslint ./"
   },
   "dependencies": {
+    "bluebird": "^3.4.6",
     "body-parser": "^1.9.2",
     "eslint": "^3.10.2",
     "express": "^4.10.1",
